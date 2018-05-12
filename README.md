@@ -1,2 +1,2 @@
 # Baidu Wormhole
-Android app that can use Baidu Wormhole to let other phones to download an file and try to install
+Android app that can use Baidu Wormhole to let other phones download a file and try to install it
